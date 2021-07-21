@@ -6,9 +6,10 @@
 -->
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 I’m currently learning Web development.
-<!-- 👯 I’m looking to collaborate on .
-- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about  History and politics.
+- 👯 I’m looking to collaborate on Machine Learning and algorithms.
+<!-- - 🤔  I’m looking for help with ...--> -->
+- 💬 Ask me about  History, politics and Mathematics.
+- I can also write poetry.
 - 📫 How to reach me: 
     <p align="center">
 <a href="https://www.linkedin.com/in/prashun-kumar-3947bb16b/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="color:white ;vertical-align:top; margin:4px"></a>
