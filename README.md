@@ -5,7 +5,7 @@
 
 -->
 - 🔭 I’m currently working on Personal Projects.
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently learning Java development.
 - 👯 I’m looking to collaborate on Machine Learning and algorithms.
 <!-- - 🤔  I’m looking for help with ...--> -->
 - 💬 Ask me about  History, politics and Mathematics.
