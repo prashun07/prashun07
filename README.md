@@ -4,7 +4,7 @@
 **prashun07/prashun07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 🔭 I’m  Interning at VerseInnovation Pvt Ltd.(Josh & Dailyhunt).
+- 🔭 I was Intern at VerseInnovation Pvt Ltd.(Josh & Dailyhunt).
 - 🌱 I’m currently learning Java development.
 - 👯 I’m looking to collaborate on Java Development,Machine Learning and algorithms.
 <!-- - 🤔  I’m looking for help with ...--> -->
