@@ -50,7 +50,7 @@
 
 
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prashun07)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prashun07&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">Profile views:</h3>
 <p align="left">
