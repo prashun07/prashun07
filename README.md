@@ -31,7 +31,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/QT/QT.png" alt="QT" height="40" style="vertical-align:top; margin:4px"></code>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=prashun07 &show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vj-codes&theme=radical)](https://git.io/streak-stats)
 
+<h3 align="left">Profile views:</h3>
+<p align="left">
+  
+![Visitor Count](https://profile-counter.glitch.me/{prashun07}/count.svg) 
 - 
 - 
 <!-- 😄 Pronouns: ...
