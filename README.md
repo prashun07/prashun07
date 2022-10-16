@@ -4,6 +4,7 @@
 **prashun07/prashun07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+[![Prashun's github stats](https://github-readme-stats.vercel.app/api?username=prashun07)](https://github.com/prashun07/github-readme-stats)
 - 🔭 I was Intern at VerseInnovation Pvt Ltd.(Josh & Dailyhunt).
 - 🌱 I’m Full Stack Java developer.
 - 👯 I’m looking to collaborate on Java Development,Machine Learning and algorithms.
@@ -17,6 +18,11 @@
 </p>
 
 <br />
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashun07)](https://github.com/prashun07/github-readme-stats)
+- 
 
 ## 🧰 Languages and Tools:
 
@@ -48,15 +54,11 @@
 
 
 
-
-<br>
-[![Prashun's github stats](https://github-readme-stats.vercel.app/api?username=prashun07)](https://github.com/prashun07/github-readme-stats)
-
 <h3 align="left">Profile views:</h3>
 <p align="left">
   
 ![Visitor Count](https://profile-counter.glitch.me/{prashun07}/count.svg) 
-- 
+
 - 
 <!-- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I'm Looking for a Job.
