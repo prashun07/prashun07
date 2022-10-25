@@ -1,29 +1,24 @@
 ### Namastey Visitor 
-
 <!--
 **prashun07/prashun07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-[![Prashun's github stats](https://github-readme-stats.vercel.app/api?username=prashun07)](https://github.com/prashun07/github-readme-stats)
 - 🔭 I was Intern at VerseInnovation Pvt Ltd.(Josh & Dailyhunt).
 - 🌱 I’m Full Stack Java developer.
 - 👯 I’m looking to collaborate on Java Development,Machine Learning and algorithms.
 <!-- - 🤔  I’m looking for help with ...--> 
 - 💬 Ask me about Anything! :).
 - I can also write poetry.
-[![@prashun07's Holopin board](https://holopin.me/prashun07)](https://holopin.io/@prashun07)
 - 📫 How to reach me: 
     <p align="center">
 <a href="https://www.linkedin.com/in/prashunkumar/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="color:white ;vertical-align:top; margin:4px"></a>
  <a href="mailto:pkjhamkt@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-<br />
-<br>
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashun07)](https://github.com/prashun07/github-readme-stats)
-- 
+
+[![Prashun's github stats](https://github-readme-stats.vercel.app/api?username=prashun07)](https://github.com/prashun07/github-readme-stats)
+
 
 ## 🧰 Languages and Tools:
 
@@ -54,12 +49,17 @@
 </div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashun07)](https://github.com/prashun07/github-readme-stats)
 
-<h3 align="left">Profile views:</h3>
-<p align="left">
-  
-![Visitor Count](https://profile-counter.glitch.me/{prashun07}/count.svg) 
 
+<h3>My Open Source Contribution Badge: </h3>
+
+[![@prashun07's Holopin board](https://holopin.me/prashun07)](https://holopin.io/@prashun07)
 - 
 <!-- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I'm Looking for a Job.
+-  
+<h3 align="left">Profile views:</h3>
+<p align="left"> </p>
+
+![Visitor Count](https://profile-counter.glitch.me/{prashun07}/count.svg) 
