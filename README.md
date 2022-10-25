@@ -1,24 +1,27 @@
-### Namastey Visitor 
+<h1 align="center"> Namastey Visitor 👋, I'm Prashun Kumar.<h1>
+<p>
+<img align="center"  width="450" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Coding" />
+</p>
 <!--
 **prashun07/prashun07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 🔭 I was Intern at VerseInnovation Pvt Ltd.(Josh & Dailyhunt).
-- 🌱 I’m Full Stack Java developer.
-- 👯 I’m looking to collaborate on Java Development,Machine Learning and algorithms.
 <!-- - 🤔  I’m looking for help with ...--> 
-- 💬 Ask me about Anything! :).
+<!-- - 🤔  I’m looking for help with ...--> 
+<!-- - 🤔  I’m looking for help with ...--> 
+
+- 🌱 I’m Full Stack Java developer.
+- 🔭 I Interned at Verse Innovation Pvt Ltd.(Josh & Dailyhunt).
+- 👯 I’m looking to collaborate on Java Development,Machine Learning and algorithms.
+- 🤔  I’m looking for help with finding a Job. 
+- 💬 Ask me about Java,ML and Web3! :).
 - I can also write poetry.
 - 📫 How to reach me: 
     <p align="center">
-<a href="https://www.linkedin.com/in/prashunkumar/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="color:white ;vertical-align:top; margin:4px"></a>
- <a href="mailto:pkjhamkt@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/prashunkumar/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="mailto:pkjhamkt@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+<a href="https://leetcode.com/Prashun7/"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" > </a>
 </p>
-
-
-
-[![Prashun's github stats](https://github-readme-stats.vercel.app/api?username=prashun07)](https://github.com/prashun07/github-readme-stats)
-
 
 ## 🧰 Languages and Tools:
 
@@ -47,9 +50,16 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
 </div>
+<div style="margin:5px 5px">
+<h3>Some Stats:</h3>
+</div>
 
+<div style="display:flex">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashun07&show_icons=true&locale=en&layout=compact" alt="prashun07" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prashun07&" alt="prashun07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashun07&show_icons=true&locale=en" alt="prashun07" /></p>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashun07)](https://github.com/prashun07/github-readme-stats)
 
 
 <h3>My Open Source Contribution Badge: </h3>
@@ -58,8 +68,7 @@
 - 
 <!-- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I'm Looking for a Job.
--  
 <h3 align="left">Profile views:</h3>
-<p align="left"> </p>
-
-![Visitor Count](https://profile-counter.glitch.me/{prashun07}/count.svg) 
+<p align="left">
+<img src="https://profile-counter.glitch.me/{prashun07}/count.svg" />
+</p>
