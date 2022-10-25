@@ -1,10 +1,9 @@
-<h1 align="center"> Namastey Visitor 👋, I'm Prashun Kumar.<h1>
+<h1 align="center"> Namastey Visitor 👋, I'm Prashun Kumar.</h1>
 <p>
 <img align="center"  width="450" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Coding" />
 </p>
 <!--
 **prashun07/prashun07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
 <!-- - 🤔  I’m looking for help with ...--> 
 <!-- - 🤔  I’m looking for help with ...--> 
@@ -51,7 +50,7 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
 </div>
 <div style="margin:5px 5px">
-<h3>Some Stats:</h3>
+<h3>My Stats:</h3>
 </div>
 
 <div style="display:flex">
