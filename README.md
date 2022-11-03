@@ -9,11 +9,11 @@
 <!-- - 🤔  I’m looking for help with ...--> 
 <!-- - 🤔  I’m looking for help with ...--> 
 
-- 🌱 I’m Full Stack Java developer.
+- 🌱 I’m Full Stack Java developer and C++ Programmer.
 - 🔭 I Interned at Verse Innovation Pvt Ltd.(Josh & Dailyhunt).
 - 👯 I’m looking to collaborate on Java Development,Machine Learning and algorithms.
 - 🤔  I’m looking for help with finding a Job. 
-- 💬 Ask me about Java,ML and Web3! :).
+- 💬 Ask me about C++,Java,ML,Deep Learning,CNN,OOPs,Data Structures and Web3! :).
 - I can also write poetry.
 - 📫 How to reach me: 
     <p align="center">
