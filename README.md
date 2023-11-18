@@ -9,9 +9,9 @@
 <!-- - 🤔  I’m looking for help with ...--> 
 <!-- - 🤔  I’m looking for help with ...--> 
 
-- 🌱 I’m C++ Programmer and Full Stack Java developer .
+- 🌱 I’m C++ Programmer and working at Cadence Design Systems.
 - 🔭 I Interned at Verse Innovation Pvt Ltd.(Josh & Dailyhunt).
-- 👯 I’m looking to collaborate on Java Development,Machine Learning and algorithms.
+- 👯 I’m looking to collaborate on C++ Development,Embedded Linux,Machine Learning and algorithms.
 - 🤔  I’learning Soc development.
 - 💬 Ask me about C++,Java,ML,Deep Learning,CNN,OOPs,Data Structures and Web3! :).
 - I can also write poetry.
@@ -41,7 +41,6 @@
 [![@prashun07's Holopin board](https://holopin.me/prashun07)](https://holopin.io/@prashun07)
 - 
 <!-- 😄 Pronouns: ...-->
-- ⚡ Fun fact: I'm Looking for a Job.
 <h3 align="left">Profile views:</h3>
 <p align="left">
 <img src="https://profile-counter.glitch.me/{prashun07}/count.svg" />
