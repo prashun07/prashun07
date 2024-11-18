@@ -9,11 +9,11 @@
 <!-- - 🤔  I’m looking for help with ...--> 
 <!-- - 🤔  I’m looking for help with ...--> 
 
-- 🌱 I’m C++ Programmer and working at Cadence Design Systems.
+- 🌱 I’m an Embedded Software Engineer working at Cadence Design Systems.
 - 🔭 I Interned at Verse Innovation Pvt Ltd.(Josh & Dailyhunt).
-- 👯 I’m looking to collaborate on C++ Development,Embedded Linux,Machine Learning and algorithms.
-- 🤔  I’learning Soc development.
-- 💬 Ask me about C++,Java,ML,Deep Learning,CNN,OOPs,Data Structures and Web3! :).
+- 👯 I’m looking to collaborate on C++ Development,Embedded Linux and Android,SOC Development using systemC.
+- 🤔  I’learning Embedded systems.
+- 💬 Ask me about C/C++,ARM,Machine Learning,Deep Learning,OOPs and Data Structures :).
 - I can also write poetry.
 - 📫 How to reach me: 
     <p align="center">
