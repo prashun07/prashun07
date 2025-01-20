@@ -9,7 +9,7 @@
 <!-- - 🤔  I’m looking for help with ...--> 
 <!-- - 🤔  I’m looking for help with ...--> 
 
-- 🌱 I’m an Embedded Software Engineer working at Cadence Design Systems.
+- 🌱 I’m a Software Engineer at Cadence Design Systems.
 - 🔭 I Interned at Verse Innovation Pvt Ltd.(Josh & Dailyhunt).
 - 👯 I’m looking to collaborate on C++ Development,Embedded Linux and Android,SOC Development using systemC.
 - 🤔  I’learning Embedded systems.
